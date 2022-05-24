@@ -2,9 +2,9 @@
 
 ### I'm Talha Javed. I'm a student and a web developer
 
-🌐 [Website](https://talhajaved.co)
-✉ [E-Mail](mailto:contact@talhajaved.co)
-☕ [Buy me a Coffee](buymeacoffee.com/talhajaved)
+🌐 [Website](https://talhajaved.com)
+✉ [E-Mail](mailto:contact@talhajaved.com)
+☕ [Buy me a Coffee](https://buymeacoffee.com/talhajaved)
 
 ## Here is some of the projects I've worked on
 
