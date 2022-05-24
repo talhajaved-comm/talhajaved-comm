@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**talhajaved-comm/talhajaved-comm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Talha Javed and I'm a Freelancer! 👋
+🔭 I’m currently working on TrullySkills
+🌱 I’m currently learning CCMS
+👯 I’m looking to collaborate on Wordpress
+🤔 I’m looking for help with Blogging
+💬 Ask me about Anything
+📫 How to reach me: Twitter
+📫 Also on YouTube: YouTube
+😄 Pronouns: He/Him
+⚡ Fun fact: I am half Finnish
