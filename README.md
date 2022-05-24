@@ -4,7 +4,7 @@
 
 🌐 [Website](https://talhajaved.co)
 ✉ [E-Mail](mailto:contact@talhajaved.co)
-☕ [Buy me a Coffee](https://ko-fi.com/edqe_)
+☕ [Buy me a Coffee](buymeacoffee.com/talhajaved)
 
 ## Here is some of the projects I've worked on
 
